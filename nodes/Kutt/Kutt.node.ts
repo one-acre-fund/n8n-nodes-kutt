@@ -245,7 +245,6 @@ export class Kutt implements INodeType {
 				for (let i = 0; i < items.length; i++) {
 					const target = this.getNodeParameter('target', i, '') as string;
 					const createOptions = this.getNodeParameter('createOptions', i, {}) as IDataObject;
-					console.dir(createOptions);
 
 					responseData = await kuttApiRequest.call(this, {
 						method: 'POST',
