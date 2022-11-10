@@ -21,9 +21,9 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 
 * Link:
   * Create
-	* Get
-	* List
-	* Delete
+  * Get
+  * List
+  * Delete
 
 ## Credentials
 
@@ -36,7 +36,7 @@ Tested against n8n v0.196.0
 ## Resources
 
 * [n8n community nodes documentation](https://docs.n8n.io/integrations/community-nodes/)
-- [Kutt website](https://kutt.it/)
+* [Kutt website](https://kutt.it/)
 * [Kutt API docs](https://docs.kutt.it/)
 
 ## Version history
