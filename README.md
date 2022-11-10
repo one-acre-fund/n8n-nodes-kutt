@@ -1,6 +1,6 @@
 # n8n-nodes-kutt
 
-![logo](./docs/logo.svg)
+![logo](./docs/kutt.svg)
 
 This is an n8n community node to interact with the [Kutt](https://kutt.it/) URL shortening service.
 
