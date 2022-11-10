@@ -1,11 +1,11 @@
 {
 	"name": "@oneacrefund/n8n-nodes-kutt",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "This is an n8n community node for the Kutt URL Shortening service",
 	"keywords": [
 		"n8n-community-node-package",
 		"kutt",
-    "url-shortening"
+		"url-shortening"
 	],
 	"license": "MIT",
 	"homepage": "",
