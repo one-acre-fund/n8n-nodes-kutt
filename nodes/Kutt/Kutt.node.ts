@@ -19,7 +19,7 @@ export class Kutt implements INodeType {
 		icon: 'file:kutt.svg',
 		group: ['transform'],
 		version: 1,
-		description: 'A node to access project release informations',
+		description: 'A node to shorten URLs',
 		defaults: {
 			name: 'Kutt',
 		},
