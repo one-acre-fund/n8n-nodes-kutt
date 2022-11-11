@@ -2,6 +2,8 @@
 
 ![logo](./docs/kutt.svg)
 
+[![npm version](https://badge.fury.io/js/@oneacrefund%2Fn8n-nodes-kutt.svg)](https://badge.fury.io/js/@oneacrefund%2Fn8n-nodes-kutt)
+
 This is an n8n community node to interact with the [Kutt](https://kutt.it/) URL shortening service.
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
