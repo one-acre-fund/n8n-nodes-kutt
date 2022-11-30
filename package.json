@@ -1,6 +1,6 @@
 {
 	"name": "@oneacrefund/n8n-nodes-kutt",
-	"version": "0.1.6",
+	"version": "0.1.7",
 	"description": "This is an n8n community node for the Kutt URL Shortening service",
 	"keywords": [
 		"n8n-community-node-package",
@@ -24,7 +24,6 @@
 		"format": "prettier nodes credentials --write",
 		"lint": "tslint -p tsconfig.json -c tslint.json && eslint nodes credentials package.json",
 		"lintfix": "tslint --fix -p tsconfig.json -c tslint.json && eslint nodes credentials package.json --fix",
-		"publish": "npm publish --access public",
 		"prepublishOnly": "npm run build && npm run lint -c .eslintrc.prepublish.js nodes credentials package.json"
 	},
 	"files": [
